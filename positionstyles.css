@@ -169,7 +169,7 @@
   .content6 {
     /* This is the parent of the activity 6 boxes. */
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 100px 100px 100px 100px 100px 100px;
   }
   .red6 {
     width: 400px; 
@@ -191,7 +191,7 @@
     width: 200px; 
     height: 400px; 
     background-color: gold; 
-    grid-column: 4/6;
+    grid-column: 5/7;
     grid-row: 3/7;
     
   } 
