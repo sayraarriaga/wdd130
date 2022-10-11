@@ -211,9 +211,9 @@ box-shadow: 5px 5px 10px #023047;
  .rivers-title{
     grid-column: 1/2;
     grid-row: 1/2;
-    margin-left: 370px;
+    margin-left: 600px;
     font-family: "Londrina Solid", "Roboto";
-    font-size: 2em;
+    font-size: 3em;
     color:#FFB703;
     
  }
@@ -221,20 +221,20 @@ box-shadow: 5px 5px 10px #023047;
     grid-column: 2/3;
     grid-row: 1/2;
     margin-left: 0;
-    width: 60px;
+    width: 100px;
  }
  .rivers-content{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     max-width: 1600px;
-    margin: 10px;
+    margin: 60px;
  }
  .salmon-img{
     grid-column: 1/2;
     grid-row: 1/2;
-    width: 250px;
-    height: 190px;
-    margin-left: 20px;
+    width: 350px;
+    height: 290px;
+    margin-left: 60px;
     border: 10px solid #023047;
     box-shadow: 5px 5px 10px #FFB703;
 
@@ -242,69 +242,72 @@ box-shadow: 5px 5px 10px #023047;
 .salmon-title{
     grid-column: 1/2;
     grid-row: 1/2;
-    width: 250px;
-    margin-left: 20px;
+    width: 350px;
+    margin-left: 60px;
     margin-top: 0;
     text-align: center;
-    font-size: 18px;
+    font-size: 25px;
     font-family: "Londrina Solid", "Roboto";
     color:#219ebc;
 }
 .salmon-paragraph{
     grid-column: 1/2;
     grid-row: 2/5;
-    width: 250px;
-    margin-left: 20px;
+    width: 350px;
+    margin-left: 60px;
     margin-top: 40px;
     font-family: "Roboto";
+    font-size: 25px;
     color: #023047;
     text-align: justify;
 }
 .salmon-paragraph2{
     grid-column: 2/3;
     grid-row: 2/5;
-    width: 250px;
-    margin-left: 20px;
+    width: 350px;
+    margin-left: 60px;
     font-family: "Roboto";
+    font-size: 25px;
     color: #023047;
     text-align: justify;
 }
 .salmon-paragraph3{
     grid-column: 2/3;
     grid-row: 2/5;
-    width: 250px;
-    margin-left: 20px;
+    width: 350px;
+    margin-left: 60px;
     margin-bottom: 40px;
     font-family: "Roboto";
+    font-size: 25px;
     color: #023047;
     text-align: justify;
 }
 .salmon-map{
     grid-column: 1/2;
     grid-row: 5/6;
-    width: 200px;
-    height: 200px;
-    margin-left: 40px;
+    width: 300px;
+    height: 300px;
+    margin-left: 80px;
 
 }
 .desolation-img{
     
     grid-column: 2/3;
     grid-row: 1/2;
-    width: 250px;
-    height: 190px;
-    margin-left: 20px;
+    width: 350px;
+    height: 290px;
+    margin-left: 60px;
     border: 10px solid #023047;
     box-shadow: 5px 5px 10px #FFB703;
  }
 .desolation-title{
     grid-column: 2/3;
     grid-row: 1/2;
-    width: 250px;
-    margin-left: 20px;
+    width: 350px;
+    margin-left: 60px;
     margin-top: 0;
     text-align: center;
-    font-size: 18px;
+    font-size: 25px;
     font-family: "Londrina Solid", "Roboto";
     color: #219ebc;
     
@@ -312,20 +315,21 @@ box-shadow: 5px 5px 10px #023047;
 .desolation-paragraph{
     grid-column: 2/3;
     grid-row: 2/5;
-    width: 250px;
-    margin-left: 20px;
+    width: 350px;
+    margin-left: 60px;
     margin-top: 40px;
-    
     font-family: "Roboto";
+    font-size: 25px;
     color: #023047;
     text-align: justify;
 }
 .desolation-paragraph2{
     grid-column: 2/3;
     grid-row: 2/5;
-    width: 250px;
-    margin-left: 20px;
+    width: 350px;
+    margin-left: 60px;
     font-family: "Roboto";
+    font-size: 25px;
     color: #023047;
     text-align: justify;
 }
@@ -333,26 +337,29 @@ box-shadow: 5px 5px 10px #023047;
     grid-column: 2/3;
     grid-row: 2/5;
     width: 250px;
-    margin-left: 20px;
+    margin-left: 60px;
     margin-bottom: 40px;
     font-family: "Roboto";
+    font-size: 25px;
     color: #023047;
     text-align: justify;
 }
 .desolation-map{
     grid-column: 2/3;
     grid-row: 5/6;
-    width: 200px;
-    height: 200px;
-    margin-left: 40px;
-    margin-top: 175px;
+    width: 300px;
+    height: 300px;
+    margin-left: 80px;
+    margin-top: 210px;
 }
 .canyon-img{
     
     grid-column: 1/2;
     grid-row: 1/2;
-    width: 250px;
-    margin-left: 20px;
+    width: 350px;
+    height: 290px;
+    margin-left: 60px;
+    margin-right: 0;
     border: 10px solid #023047;
     box-shadow: 5px 5px 10px #FFB703;
 
@@ -360,30 +367,32 @@ box-shadow: 5px 5px 10px #023047;
 .canyon-title{
     grid-column: 3/4;
     grid-row: 1/2;
-    width: 250px;
-    margin-left: 20px;
+    width: 350px;
+    margin-left: 60px;
     margin-top: 0;
     text-align: center;
-    font-size: 18px;
+    font-size: 25px;
     font-family: "Londrina Solid", "Roboto";
     color:#219ebc
 }
 .canyon-paragraph{
     grid-column: 3/4;
     grid-row: 2/5;
-    width: 250px;
-    margin-left: 20px;
+    width: 350px;
+    margin-left: 60px;
     margin-top: 40px;
     font-family: "Roboto";
+    font-size: 25px;
     color: #023047;
     text-align: justify;
 }
 .canyon-paragraph2{
     grid-column: 3/4;
     grid-row: 2/5;
-    width: 250px;
-    margin-left: 20px;
+    width: 350px;
+    margin-left: 60px;
     font-family: "Roboto";
+    font-size: 25px;
     color: #023047;
     text-align: justify;
 
@@ -391,20 +400,21 @@ box-shadow: 5px 5px 10px #023047;
 .canyon-paragraph3{
     grid-column: 3/4;
     grid-row: 2/5;
-    width: 250px;
-    margin-left: 20px;
+    width: 350px;
+    margin-left: 60px;
     margin-bottom: 40px;
     font-family: "Roboto";
+    font-size: 25px;
     color: #023047;
     text-align: justify;
 }
 .canyon-map{
     grid-column: 3/4;
     grid-row: 5/6;
-    width: 200px;
-    height: 200px;
-    margin-left: 40px;
-    margin-top: 195px;
+    width: 300px;
+    height: 300px;
+    margin-left: 80px;
+    margin-top: 300px;
 }
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
