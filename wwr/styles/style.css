@@ -471,7 +471,7 @@ button{
     margin-top: 3em;
 }
 @media screen and (max-width: 900px) {
-    #hero, .home-grid {
+    #hero, .home-grid, .rivers-content {
         display: block;
         height: auto;
     }
