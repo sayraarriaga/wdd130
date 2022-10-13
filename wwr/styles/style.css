@@ -288,6 +288,7 @@ box-shadow: 5px 5px 10px #023047;
     width: 300px;
     height: 300px;
     margin-left: 50px;
+    margin-bottom: 40px;
 
 }
 .desolation-img{
@@ -351,6 +352,7 @@ box-shadow: 5px 5px 10px #023047;
     height: 300px;
     margin-left: 80px;
     margin-top: 210px;
+    margin-bottom: 40px;
 }
 .canyon-img{
     
@@ -415,6 +417,7 @@ box-shadow: 5px 5px 10px #023047;
     height: 300px;
     margin-left: 80px;
     margin-top: 300px;
+    margin-bottom: 40px;
 }
 /*--------------page3 Contact US-----------*/
 
@@ -495,7 +498,7 @@ button{
         font-size: 25px;
         color: #6f7364;
     }
-    .rivers-card, .camping-card, .rapids-card { 
+    .rivers-card, .camping-card, .rapids-card, .rivers-content { 
         margin: 50px auto;
         width: 60%;
     }
