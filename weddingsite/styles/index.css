@@ -40,7 +40,7 @@ div{
         grid-template-rows: 1fr 1fr 1fr;
     }
     #hero-img{
-        margin-left: -150px;
+        margin-left: -50px;
         grid-column: 2 / 3;
         grid-row: 1/4;
         z-index: 1;
