@@ -8,7 +8,7 @@ div{
     font-size: 3em;
     color:#580e19 ;
     margin-top: 100px;
-    margin-left: 50px; 
+    
 }
     header{
         background-color: #580e19;
@@ -40,7 +40,7 @@ div{
         grid-template-rows: 1fr 1fr 1fr;
     }
     #hero-img{
-        margin-left: -200px;
+        margin-left: -1500px;
         grid-column: 2 / 3;
         grid-row: 1/4;
         z-index: 1;
