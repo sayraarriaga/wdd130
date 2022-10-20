@@ -40,7 +40,7 @@ div{
         grid-template-rows: 1fr 1fr 1fr;
     }
     #hero-img{
-        margin-left: -50px;
+        margin-left: -20px;
         grid-column: 2 / 3;
         grid-row: 1/4;
         z-index: 1;
@@ -166,7 +166,7 @@ footer p {
     font-size: 1.2em;
     color: #580e19;
     font-family: "Lato";
-    font-size: 25px;
+    font-size: 20px;
 }    
 footer p a:hover{
     text-decoration: underline;
