@@ -271,6 +271,7 @@ width: 100%;
         text-align: center;
         font-family:  "Bad Script", "Passions Conflict";
         font-size: 30px;
+        color: #580e19;
 }
 .temple-title-img{
     grid-column: 1/2;
@@ -281,8 +282,10 @@ width: 100%;
 .temple-title-paragraph{
     grid-column: 1/3;
     grid-row: 1/2;
+    font-family: "Lato";
     font-size: 25px;
     text-align: center;
+    color: #94a17d;
     
     }
     .temple-requirements{
@@ -290,8 +293,9 @@ width: 100%;
         grid-row: 2/3;
         text-align:left;
         margin-top: 350px;
-        font-family:"Bad Script", "Passions Conflict" ;
+        font-family:"Lato" ;
         font-size: 30px;
+        color: #94a17d;
 
     }
 
@@ -309,7 +313,8 @@ width: 100%;
     grid-column: 1/3;
     grid-row: 3/4;
     margin-top: 130px;
-    font-family: "Bad Script", "Passions Conflict";
+    font-family: "Lato";
     font-size: 25px;
+    color:#94a17d
 
 }
