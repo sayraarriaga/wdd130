@@ -293,10 +293,18 @@ width: 100%;
         grid-row: 2/3;
         text-align:left;
         margin-top: 350px;
+        margin-left: 30px;
         font-family:"Lato" ;
         font-size: 30px;
         color: #94a17d;
+        
 
+    }
+    .requirements5{
+        margin-left: 35px;
+    }
+    .requirements6{
+        margin-left: 35px;
     }
 
 .temple-img{
